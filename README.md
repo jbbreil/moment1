@@ -6,4 +6,4 @@ Versionshantering &amp; Git
 + Skapa personlig README-fil för din profil
 + Använd Github Pages
 
-[URL'en till din Github Pages-webbplats](https://www.google.com)
+[URL'en till min Github Pages-webbplats](jbbreil.github.io)
